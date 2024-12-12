@@ -1,0 +1,18 @@
+.hero{
+    background-image: url(patisserie.png);
+    background-size: cover;
+    height: 521px;
+    font-family: cursive;
+    color: rgb(160, 56, 192);
+    justify-items: center;
+}
+.carte{
+    padding-left: 10%;
+}
+.harry{
+    height: 50%;
+}
+.lolo{
+    color:darkmagenta ;
+
+}
